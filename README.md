@@ -79,4 +79,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/luiz0032/luiz0032/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/luiz0032/luiz0032/output/snake.0svg)
