@@ -79,4 +79,4 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/luiz0032/luiz0032/output/snake.0svg)
+![Snake animation](https://github.com/luiz0032/blob/output/github-snake-dark.svg)
