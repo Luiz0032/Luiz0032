@@ -23,23 +23,29 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="javascript logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="javascript logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="javascript logo" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"
-        alt="html5 logo" />
+    alt="html5 logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
-        alt="python logo" />
+    alt="python logo" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
-        alt="vscode logo" />
+    alt="vscode logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"
-        alt="github logo" />
+    alt="github logo" />
 </div>
 
 
