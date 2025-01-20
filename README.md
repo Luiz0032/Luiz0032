@@ -9,7 +9,7 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
 
 
-<p align="left">🚀 I am a junior Frontend developer, ambitious, focused on career growth, and always seeking to build
+<p align="left">🚀 I am a junior full-stack developer, ambitious, focused on career growth, and always seeking to build
     scalable and maintainable projects. I am dedicating myself fully to the technology field.<br><br>🖥️ I am currently
     pursuing a degree in Software Engineering, in the 8th semester, with an expected graduation in July 2026.<br><br>🔮
     My future goal is to become a Full Stack developer to achieve my professional and personal goals.</p>
