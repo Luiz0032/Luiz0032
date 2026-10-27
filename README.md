@@ -67,8 +67,8 @@ I'm pursuing a degree in Software Engineering at Estácio (online), expected to 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiz0032&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz0032&layout=compact&theme=github_dark&langs_count=6" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiz0032&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz0032&layout=compact&theme=github_dark&langs_count=6&hide=blade,vue" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -80,14 +80,13 @@ I'm pursuing a degree in Software Engineering at Estácio (online), expected to 
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Luiz0032/REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luiz0032&repo=REPO-NAME&theme=github_dark" alt="VSTech Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://portfolio-comercial-two.vercel.app"><b>VSTech Portfolio: live demo</b></a><br />
-  Commercial website built with React, TypeScript, Vite, and Tailwind CSS, deployed on Vercel.
+  <a href="https://portfolio-comercial-two.vercel.app"><b>VSTech Portfolio</b></a><br />
+  Commercial website for a web design and digital marketing agency.<br /><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br /><br />
+  <a href="https://portfolio-comercial-two.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 </p>
 
 ---
