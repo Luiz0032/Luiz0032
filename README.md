@@ -1,54 +1,32 @@
-<br clear="both">
+# Olá, eu sou o Luiz Fernando 👋
 
-<h1 align="center">💫 About Me: 💫</h1>
+Desenvolvedor Full-Stack Júnior em Curitiba, PR. Trabalho com desenvolvimento web usando JavaScript, TypeScript, React e Node.js, e tenho experiência profissional com automação de processos, integrações via API e soluções low-code com Power Apps e Power Automate.
 
-###
+Sou cofundador da [VSTech](https://portfolio-comercial-two.vercel.app), agência de criação de sites e marketing digital, onde desenvolvo sites para clientes do planejamento à publicação.
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
+Curso Engenharia de Software na Estácio (EAD), com conclusão prevista para novembro de 2027.
 
-###
+## O que eu faço
 
-<p align="left">🚀 I am a junior Frontend developer, ambitious, focused on career growth, and always seeking to build scalable and maintainable projects. I am dedicating myself fully to the technology field.<br><br>🖥️ I am currently pursuing a degree in Software Engineering, in the 8th semester, with an expected graduation in July 2026.<br><br>🔮 My future goal is to become a Full Stack developer to achieve my professional and personal goals.</p>
+- **Desenvolvimento web:** interfaces responsivas com React, TypeScript, Vite e Tailwind CSS, publicadas na Vercel.
+- **Back-end e integrações:** Node.js, APIs REST, dados JSON, Prisma, MongoDB, SQL e PHP.
+- **Automação de processos:** bots de WhatsApp, integrações entre sistemas e fluxos com Power Apps, Power Automate e Microsoft 365.
+- **Desenvolvimento assistido por IA:** uso do Claude Code e de agentes de programação para planejar, implementar, depurar e revisar código, sempre validando as alterações antes de publicar.
 
-###
+## Tecnologias
 
-<br clear="both">
-
-<h1 align="center">💻 Tech Stack:💻</h1>
-
-###
-
-<section>
- <img align="right" height="200" src="https://as1.ftcdn.net/v2/jpg/03/12/73/70/1000_F_312737008_2AaaMz17ttieKJ5t0kEg0mMAThC1S4PL.jpg"  />
- <p align= center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,git,github,mongodb,prisma&perline=5">
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,php,mongodb,prisma,git,github,vscode,vercel&perline=8" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, PHP, MongoDB, Prisma, Git, GitHub, VS Code, Vercel" />
 </p>
-</section>
 
-###
+Também trabalho com Power Apps, Power Automate, SharePoint, Microsoft Teams, Microsoft Forms, Excel e Azure.
 
-<br clear="both">
+## Projeto em destaque
 
-<h1 align="center">📥 Social media:📥</h1>
+**[Portfólio VSTech](https://portfolio-comercial-two.vercel.app):** site comercial da agência, desenvolvido com React, TypeScript, Vite e Tailwind CSS e publicado na Vercel.
 
-###
+## Contato
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<h1 align="center">💥GitHub Stats:💥</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz0032&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz0032&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-streme-vogel-aaa363226/)
+[![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernandostremevogel@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-comercial-two.vercel.app)
