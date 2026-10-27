@@ -1,32 +1,103 @@
-# Olá, eu sou o Luiz Fernando 👋
+<h1 align="center">Hi, I'm Luiz Fernando 👋</h1>
+<p align="center"><b>Junior Full-Stack Developer</b> · Curitiba, Brazil</p>
 
-Desenvolvedor Full-Stack Júnior em Curitiba, PR. Trabalho com desenvolvimento web usando JavaScript, TypeScript, React e Node.js, e tenho experiência profissional com automação de processos, integrações via API e soluções low-code com Power Apps e Power Automate.
+---
 
-Sou cofundador da [VSTech](https://portfolio-comercial-two.vercel.app), agência de criação de sites e marketing digital, onde desenvolvo sites para clientes do planejamento à publicação.
+## About Me
 
-Curso Engenharia de Software na Estácio (EAD), com conclusão prevista para novembro de 2027.
+Junior Full-Stack Developer building web applications with JavaScript, TypeScript, React, and Node.js. I have professional experience in process automation, API integrations, and low-code solutions with Power Apps and Power Automate.
 
-## O que eu faço
+I'm the co-founder of [VSTech](https://portfolio-comercial-two.vercel.app), a web design and digital marketing agency, where I build websites for clients from planning to deployment.
 
-- **Desenvolvimento web:** interfaces responsivas com React, TypeScript, Vite e Tailwind CSS, publicadas na Vercel.
-- **Back-end e integrações:** Node.js, APIs REST, dados JSON, Prisma, MongoDB, SQL e PHP.
-- **Automação de processos:** bots de WhatsApp, integrações entre sistemas e fluxos com Power Apps, Power Automate e Microsoft 365.
-- **Desenvolvimento assistido por IA:** uso do Claude Code e de agentes de programação para planejar, implementar, depurar e revisar código, sempre validando as alterações antes de publicar.
+I'm pursuing a degree in Software Engineering at Estácio (online), expected to graduate in November 2027.
 
-## Tecnologias
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,php,mongodb,prisma,git,github,vscode,vercel&perline=8" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, PHP, MongoDB, Prisma, Git, GitHub, VS Code, Vercel" />
+## What I Do
+
+- **Web development:** responsive interfaces with React, TypeScript, Vite, and Tailwind CSS, deployed on Vercel.
+- **Back-end and integrations:** Node.js, REST APIs, JSON data handling, Prisma, MongoDB, SQL, and PHP.
+- **Process automation:** WhatsApp bots, system integrations, and workflows with Power Apps, Power Automate, and Microsoft 365.
+- **AI-assisted development:** Claude Code and coding agents to plan, implement, debug, and review code, always validating changes before shipping.
+
+---
+
+## Tech Stack
+
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">Languages &amp; Frameworks</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,tailwind,vite&perline=5" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Tailwind CSS, Vite" /></td>
+  </tr>
+  <tr>
+    <td align="center">Database &amp; ORM</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,prisma" alt="MongoDB, Prisma" /></td>
+  </tr>
+  <tr>
+    <td align="center">Low-Code &amp; Automation</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
+      <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
+      <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square" alt="SharePoint" /><br />
+      <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square" alt="Microsoft Teams" />
+      <img src="https://img.shields.io/badge/Microsoft%20Forms-008272?style=flat-square" alt="Microsoft Forms" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Cloud &amp; Deploy</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure,vercel" alt="Azure, Vercel" /></td>
+  </tr>
+  <tr>
+    <td align="center">AI-Assisted Development</td>
+    <td align="center"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /></td>
+  </tr>
+  <tr>
+    <td align="center">Tools &amp; Version Control</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" /></td>
+  </tr>
+</table>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiz0032&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz0032&layout=compact&theme=github_dark&langs_count=6" alt="Most Used Languages" />
 </p>
 
-Também trabalho com Power Apps, Power Automate, SharePoint, Microsoft Teams, Microsoft Forms, Excel e Azure.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luiz0032&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
 
-## Projeto em destaque
+---
 
-**[Portfólio VSTech](https://portfolio-comercial-two.vercel.app):** site comercial da agência, desenvolvido com React, TypeScript, Vite e Tailwind CSS e publicado na Vercel.
+## Featured Projects
 
-## Contato
+<p align="center">
+  <a href="https://github.com/Luiz0032/REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luiz0032&repo=REPO-NAME&theme=github_dark" alt="VSTech Portfolio" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-streme-vogel-aaa363226/)
-[![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernandostremevogel@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-comercial-two.vercel.app)
+<p align="center">
+  <a href="https://portfolio-comercial-two.vercel.app"><b>VSTech Portfolio: live demo</b></a><br />
+  Commercial website built with React, TypeScript, Vite, and Tailwind CSS, deployed on Vercel.
+</p>
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-fernando-streme-vogel-aaa363226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:luizfernandostremevogel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-comercial-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><sub>Designed by Luiz Fernando Streme Vogel · Full-Stack Developer</sub></p>
