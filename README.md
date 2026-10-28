@@ -68,7 +68,7 @@ I'm pursuing a degree in Software Engineering at Estácio (online), expected to 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-lovat-chi-67.vercel.app/api?username=Luiz0032&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-lovat-chi-67.vercel.app/api/top-langs/?username=Luiz0032&layout=compact&theme=github_dark&langs_count=6&hide=blade&exclude_repo=login,portfolio,mini-portfolio,app-pokedex,app-previsao-tempo,Tabela-de-precos,github-readme-stats" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats-lovat-chi-67.vercel.app/api/top-langs/?username=Luiz0032&layout=compact&theme=github_dark&langs_count=6&hide=blade&exclude_repo=login,portfolio,mini-portfolio,app-pokedex,app-previsao-tempo,Tabela-de-precos,github-readme-stats,kutassy-engenharia,bar-sinukao" alt="Most Used Languages" />
 </p>
 
 <p align="center">
